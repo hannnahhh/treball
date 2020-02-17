@@ -99,13 +99,13 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://ol.es/images/imagen%20pegada%20225x225.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://ol.es/images/imagen%20pegada%20226x223.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://ol.es/images/imagen%20pegada%20700x699.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ol.es/images/imagen%20pegada%20225x2252.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

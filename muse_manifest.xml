@@ -1,17 +1,17 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ol.es" resolutions="1x" timestamp="1581977707960">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ol.es" resolutions="1x" timestamp="1581978678145">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="517439204" ref="index"/>
     <file name="sin-t_tulo-2.css" crc="220697565" ref="sin-título-2"/>
-    <file name="sin-t_tulo-9.css" crc="3779636778" ref="sin-título-9"/>
+    <file name="sin-t_tulo-9.css" crc="4193063051" ref="sin-título-9"/>
     <file name="sin-t_tulo-8.css" crc="411066113" ref="sin-título-8"/>
     <file name="sin-t_tulo-3---copia.css" crc="287319707" ref="sin-título-3---copia"/>
     <file name="sin-t_tulo-3.css" crc="4203504956" ref="sin-título-3"/>
     <file name="-.css" crc="1172401" ref="-"/>
     <file name="sin-t_tulo-5.css" crc="522305336" ref="sin-título-5"/>
     <file name="sin-t_tulo-6.css" crc="4163977714" ref="sin-título-6"/>
-    <file name="sin-t_tulo-12.css" crc="3765374726" ref="sin-título-12"/>
-    <file name="sin-t_tulo-11.css" crc="224675661" ref="sin-título-11"/>
+    <file name="sin-t_tulo-12.css" crc="348845024" ref="sin-título-12"/>
+    <file name="sin-t_tulo-11.css" crc="3817409220" ref="sin-título-11"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:sin-título-2:sin-título-3:sin-título-3---copia:sin-título-5:sin-título-6:-:sin-título-8:sin-título-9:sin-título-11:sin-título-12"/>
@@ -47,7 +47,7 @@
     <file name="imagen pegada 259x194.jpg" crc="3888813420" seo="true" ref="sin-título-9">
       <caption webpage="sin-título-9" alt=""/>
     </file>
-    <file name="imagen pegada 225x225.jpg" crc="3801813704" seo="true" ref="sin-título-11:sin-título-12">
+    <file name="imagen pegada 225x225.jpg" crc="391143371" seo="true" ref="sin-título-11">
       <caption webpage="sin-título-12" alt=""/>
       <caption webpage="sin-título-11" alt=""/>
     </file>
@@ -60,6 +60,9 @@
     <file name="imagen pegada 700x699.jpg" crc="4042134337" seo="true" ref="sin-título-12">
       <caption webpage="sin-título-12" alt=""/>
     </file>
+    <file name="imagen pegada 225x2252.jpg" crc="3801813704" seo="true" ref="sin-título-12">
+      <caption webpage="sin-título-12" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="333842715" seo="true" mt="1581976688100" redirect="true"/>
   <file name="sin-título-2.html" crc="383385971" seo="true" mt="1581976356272" redirect="true"/>
@@ -69,7 +72,7 @@
   <file name="sin-título-6.html" crc="259319147" seo="true" mt="1581977149845" redirect="true"/>
   <file name="-.html" crc="4269048440" seo="true" mt="1581976213897" redirect="true"/>
   <file name="sin-título-8.html" crc="230510559" seo="true" mt="1581976980214" redirect="true"/>
-  <file name="sin-título-9.html" crc="503865879" seo="true" mt="1581977700923" redirect="true"/>
-  <file name="sin-título-11.html" crc="297105425" seo="true" mt="1581977494663" redirect="true"/>
-  <file name="sin-título-12.html" crc="448716528" seo="true" mt="1581977644574" redirect="true"/>
+  <file name="sin-título-9.html" crc="4067774904" seo="true" mt="1581978592190" redirect="true"/>
+  <file name="sin-título-11.html" crc="3816772085" seo="true" mt="1581978662657" redirect="true"/>
+  <file name="sin-título-12.html" crc="415367035" seo="true" mt="1581978671281" redirect="true"/>
 </manifest>
